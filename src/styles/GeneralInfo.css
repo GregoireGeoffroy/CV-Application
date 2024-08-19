@@ -1,0 +1,12 @@
+.general-info {
+    margin-bottom: 20px;
+}
+
+.general-info input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.general-info button {
+    margin-top: 10px;
+}
