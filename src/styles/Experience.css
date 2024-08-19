@@ -1,0 +1,13 @@
+.experience {
+    margin-bottom: 20px;
+}
+
+.experience input,
+.experience textarea {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.experience button {
+    margin-top: 10px;
+}
